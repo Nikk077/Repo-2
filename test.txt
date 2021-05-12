@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A844-21F0
+
+ Directory of C:\Users\dim01577\Downloads\My project
+
+13-05-2021  01:40    <DIR>          .
+13-05-2021  01:40    <DIR>          ..
+13-05-2021  01:40                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  81,448,460,288 bytes free
